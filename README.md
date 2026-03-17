@@ -6,7 +6,7 @@ Instalasi:
 
 jika tidak bisa masuk salin teks berikut: 
 
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/startxfce4_termux.sh
+> wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/startxfce4_termux.sh
 mv startxfce4_termux.sh home
 chmod +x home
 
